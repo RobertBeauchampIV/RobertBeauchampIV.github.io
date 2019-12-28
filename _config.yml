@@ -1,5 +1,4 @@
-github:
-  is_project_page: false
+github:is_project_page: false
 theme: jekyll-theme-hacker
 title: Robert Beauchamp IV's Webpage
 description: This is currently under development, feel free to bookmark and check back for updates!
