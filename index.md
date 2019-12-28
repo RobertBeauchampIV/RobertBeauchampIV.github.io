@@ -1,6 +1,6 @@
 ## Welcome To My Personal Website
 
-You can use the [about me](https://github.com/RobertBeauchampIV/RobertBeauchampIV.github.io/edit/master/about.md) to get to my about me.
+You can use the [about me](about.md) to get to my about me.
 
 ### Markdown
 
